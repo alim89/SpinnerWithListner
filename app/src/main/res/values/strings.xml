@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SpinnerWithListner</string>
+    <string-array name="country_name">
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+    </string-array>
+    <string-array name="population">
+
+        <item>160 mi</item>
+        <item>12000</item>
+        <item>140  mi</item>
+        <item>.7 mi</item>
+        <item>10 mi</item>
+    </string-array>
+
+</resources>
